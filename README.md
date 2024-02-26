@@ -5,17 +5,16 @@
 
 |Lab  |排名/通過人數|
 |------|------:|
-|Lab01|83/149|
-|Lab02|10/134|
-|Lab04|53/121|
-|Lab05|49/108|
-|Lab06|25/123|
-|Midterm project|65/113|
-|Lab08|80/118|
-|Lab09|21/122|
-|Lab10|05/122|
-|Lab11|05/122|
-|Lab12|03/121|
-|Final project| 03/117|
+|Lab01: Supper MOSFET Calculator|83/149|
+|Lab02: Calculation on the coordinates|10/134|
+|Lab04: Siamese Neural Network|53/121|
+|Lab05: Matrix convolution, max pooling and transposed convolution|49/108|
+|Lab06: Huffman Code Operation|25/123|
+|Midterm project: Maze Router Accelerator|65/113|
+|Lab08: Low power on Siamese Neural Network|80/118|
+|Lab09: Tea house(design)|21/122|
+|Lab10: Tea house(verification)|05/122|
+|Lab12: Matrix convolution, max pooling and transposed convolution(with APR)|03/121|
+|Final project: single core Central Processing Unit| 03/117|
 
 註：部分Lab像是練習寫testbench或是做APR的就沒有排名，僅考慮正確性跟完成與否，故不在此列出
